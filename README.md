@@ -2,6 +2,9 @@
 
 The repo includes all the notebooks and codebase we used in implementing all steps of our research in building a model to convert signs from the American sign language (ASL) to text, and the other way around from Audio to Sign 
 
+# Dataset Link
+
+https://drive.google.com/drive/folders/1jAg9pGxOlT5Bsqy9686LPSC0zh3jMNX5?usp=sharing
 
 
 # Repo Contents 
